@@ -1,0 +1,12 @@
+一、表1
+query
+二、字段
+1.id(tinyint)
+2.q1(text)
+3.q2(text)
+4.q3(text)
+5.a1(text)
+6.a2(text)
+7.a3(text)
+8.update_time(timestrip)
+9.is_del(bool)
